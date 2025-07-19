@@ -2,7 +2,6 @@
 
 Grover’s Quest for Cookies is a casual 2D arcade-style game inspired by the Percy Jackson universe. As Grover, dodge Medusa’s deadly gaze and collect as many cookies as you can to achieve the highest score!
 
-![Gameplay Screenshot](assets/images/screenshot1.png)
 
 ---
 
